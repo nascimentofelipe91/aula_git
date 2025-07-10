@@ -1,2 +1,4 @@
 # aula_git
-curso em video
+Curso em vídeo.
+
+Repositório criado para as aulas do curso em vídeo.
